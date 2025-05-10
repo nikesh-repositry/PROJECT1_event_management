@@ -19,5 +19,5 @@ public class Event {
     // Getters and Setters (Add using Source > Generate Getters/Setters)
     public String getEventId() { return eventId; }
     public void setEventId(String eventId) { this.eventId = eventId; }
-    // Repeat for other fields
+    // repeat for other files
 }
